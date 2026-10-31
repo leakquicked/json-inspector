@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/json-inspector/actions/workflows/python-checks.yml/badge.svg)
+
 # JSON Inspector
 
 Validate a local JSON document and summarize its top-level structure.
